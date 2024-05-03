@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+
+
+
+main{
+display: flex;
+justify-content: center;
+margin-top: 164px;
+}
+
+.contenedor{
+display: flex;
+flex-direction: column;
+align-items: start;
+max-width: 336px;
+padding: 16px 16px 0px 16px;
+border-radius: 16px;
+box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.5);
+background-color: #fff;
+
+}
+
+
+img{
+height: 152px;
+width: 336px;
+border-radius: 16px;
+
+
+}
+.button{
+border: none;
+font-family: "Sora", sans-serif;
+font-weight: 800;
+color: #883AE1;
+background-color: #E6D6FC;
+padding: 5px 15px;
+margin: 16px 2px 16px 0px;  
+font-size: 10px;
+border-radius: 16px;
+}
+h2{
+font-size: 18px;
+color: 20293A;
+margin: 0px 0px 0px 0px;
+font-family: "Sora", sans-serif;
+font-optical-sizing: auto;
+font-weight: 800;
+font-style: normal;
+
+}
+.descrip {
+
+padding-bottom:  20px;
+border-bottom: 2px solid rgba(0, 0, 0, 0.349);
+font-size: 14px;
+font-family: "Sora", sans-serif;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: normal;
+
+}
+p{
+    font-size: 14px;
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;  
+}
+
+
+
+
